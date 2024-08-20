@@ -1,0 +1,24 @@
+.header{ 
+    text-align: center;gap: 10px; display: flex;margin-left: 575px;
+}
+#deals{ color: #6cb840; margin-right: 270px;} 
+body{ background-color: #c9ecb5;} 
+.quest{ 
+    text-align: right; margin-left: 100px; margin-bottom: 0px;
+}
+#p1{ margin-top: 0px; margin-bottom: 0px; font-size: 20px;margin-right: 228px;} 
+#p2{  margin-top: 0px; margin-bottom: 0px;font-size: 20px;margin-right: 228px;} 
+#p3{  margin-top: 0px; margin-bottom: 0px;font-size: 20px;margin-right: 228px;} 
+#p4{  margin-top: 0px; margin-bottom: 0px;font-size: 20px;margin-right: 228px;} 
+#p5{  margin-top: 0px; margin-bottom: 0px;font-size: 20px;margin-right: 228px;} 
+#h1{ color: #6cb840;} 
+#h2a{ margin-right: 470px;} 
+#h2b{ margin-right: 438px;} 
+#h1{margin-right: 228px;} 
+.images {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }
+   
+#Burger{ position: absolute;left: 150px; top: 330px;} 

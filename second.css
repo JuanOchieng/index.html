@@ -1,0 +1,32 @@
+#eating_together{ 
+    height: 500px; 
+    width: 600px;
+} 
+h1{ 
+    font-size: 30px; ; margin-right: 50px;margin-top: 100px; color: #eaab1b;text-align: right;
+    margin-bottom: 0px;
+    
+} 
+#t1{ 
+    margin-top:0px;margin-bottom:0px;margin-right: 20px;text-align: right;
+}
+
+
+#t2{ 
+    margin-top:0px;margin-bottom:0px;margin-right: 20px;text-align: right;
+} 
+#t3{ 
+    margin-top: 0px;margin-bottom: 0px;margin-right: 20px;text-align: right;
+}
+#t4{ 
+    margin-top: 0px;margin-bottom: 0px;margin-right: 20px;text-align: right;
+} 
+#t5{ 
+    margin-top: 0px;margin-bottom: 0px;margin-right: 20px;text-align: right;
+}  
+img{ 
+    position: absolute;bottom: 150px;left: 10px;
+}
+.tut{ text-align: right; margin-top: 0px; margin-top: 0px;}
+p{ font-size: 25px;}
+

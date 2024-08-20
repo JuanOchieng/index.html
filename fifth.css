@@ -1,0 +1,18 @@
+.topic{ 
+    display: flex;margin-left: 500px;gap: 20px; font-size: 30px;
+} 
+#u{ 
+    color: #6cb840;
+} 
+.pp{ text-align: center;font-size: 20px;} 
+#p1{margin-top: 0px;margin-bottom: 0px; }
+#p2{margin-top: 0px;margin-bottom: 0px; } 
+#p3{margin-top: 0px;margin-bottom: 0px; } 
+#p4{margin-top: 0px;margin-bottom: 0px; } 
+#p5{margin-top: 0px;margin-bottom: 0px; } 
+#Email{ margin-left: 20px; font-size: 20px;margin-top: 20px; background-color: white; ;} 
+body{ background-color:#FFD77C ;} 
+#b{ color:white; background-color: #6cb840 ; margin-left: 575px;} 
+ul{ margin-left: 300px; 
+border-left: 8px black dashed; ;border-bottom: 4px black solid; 
+border-right: 8px black solid; border-top: 4px black solid;} 

@@ -1,0 +1,20 @@
+@font-face {
+    font-family:"Poppins-Black";
+    src: url(MY_WEBSITE/Poppins-Black.ttf);
+}        
+        #z1{ text-align: left ; font-size: 30px; margin-bottom: 0px;} 
+
+#z2{ text-align: left; margin-top: 0px; margin-bottom: 15px;} 
+#z3{ text-align: left; margin-top: 0px;margin-bottom: 0px; font-size: 30px;} 
+#z4{ text-align:left;margin-top:  0px;margin-bottom: 10px;  } 
+#z5{position:absolute ;top: 30px;right: 600px; font-size: 30px;} 
+#z6{position:absolute ;top: 80px;right: 620px;} 
+#z7{position:absolute ;top: 100px;right: 620px;} 
+#z8{ position: absolute;top: 30px;right: 300px;font-size: 30px;} 
+#z9{ position: absolute;top: 80px;right: 180px;} 
+#z10{ position: absolute;top: 100px;right: 248px;} 
+#z11{ position: absolute;top: 120px;right: 285px;} 
+button{ position: absolute;top: 120px;right: 20px; height: 50px; width: 100px;color: white;
+background-color:#6cb840 ;} 
+
+    

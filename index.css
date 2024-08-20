@@ -1,0 +1,91 @@
+#Order_Now {  color: white;background-color: #6cb840; margin: 10px 
+    
+    
+    ;} 
+p{ 
+    font-size: 20px; 
+    text-align: left;  
+    column-gap: 0px;   
+    
+
+} 
+body{ 
+    background-color: #d3dfcd 
+    
+    ;
+} 
+h1{ 
+    text-align: left; 
+    font-style: poppins; 
+}   
+*{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}    
+.container { 
+display: flex; 
+gap: 65px;  
+margin-left: 50px  ; 
+margin-top: 50px;
+                     }  
+  #blackstar{ 
+    background-color: #d3dfcd;color: #d3dfcd; 
+    margin-top: 30px;
+  }    
+  #food{ 
+    text-align: center; 
+    font-size: 45px; 
+    margin: 0px; }     
+    
+        .mount{ 
+            font-size: 50px; 
+            display: flex; 
+            margin: 0px;
+        }
+        #place{ 
+            color: #6cb840; 
+        } 
+        #time{ 
+            color: #eaab1b;
+        } 
+        #p1{ font-size: 30px; margin: 0px;} 
+        #x1{ 
+            margin: 0px ;} 
+            #x2{  
+                margin: 0px;
+            } 
+            #x3{ 
+                margin: 0px;
+            } 
+            #x4{ 
+                margin: 0px;
+            } 
+            #x5{ 
+                margin: 0px;
+            } 
+            .mo_food{ 
+                display: flex;
+                height: 100px; 
+                width: 100px; 
+                text-align: center; 
+                margin-left: 500px; 
+                margin-bottom: 0px; 
+                position: absolute 
+                ;bottom: 300px;
+            }  
+            #bn{ 
+                background-color: aqua;
+            } 
+
+        
+                
+            
+            
+                
+                
+            
+        
+    
+
+
+    
